@@ -8,7 +8,7 @@
  * Plugin Name:       Revisr
  * Plugin URI:        https://revisr.io/
  * Description:       A plugin that allows users to manage WordPress websites with Git repositories.
- * Version:           2.0.2.1
+ * Version:           2.0.2.2
  * Author:            Expanded Fronts, LLC
  * Author URI:        http://expandedfronts.com/
  * License:           GPL-3.0+
